@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.23",
-    "cssnano": "^7.1.2",
+    "cssnano": "^9.0.4",
     "cssnano-preset-default": "^7.0.10",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.2",
